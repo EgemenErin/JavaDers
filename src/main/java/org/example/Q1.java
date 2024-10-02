@@ -2,7 +2,7 @@ package org.example;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class Q1 {
     public static void main(String[] args) {
         int aa=5;
         int bb=6;
